@@ -1,0 +1,14 @@
+﻿  NonFree.cpp
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(169): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(200): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(219): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(283): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(291): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(301): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhanghui03\source\repos\nonfree\nonfree\nonfree.cpp(418): warning C4101: “buf”: 未引用的局部变量
+  NonFree.vcxproj -> C:\Users\zhanghui03\source\repos\NonFree\Debug\NonFree.exe
